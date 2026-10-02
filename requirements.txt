@@ -1,0 +1,12 @@
+# Core
+earthengine-api      # talk to Google Earth Engine from Python
+python-dotenv        # read settings (e.g. EE project ID) from .env
+pandas               # tables
+geopandas            # tables with geometry (sites, buffers, coast segments)
+shapely              # geometry operations
+pyproj               # map projections (UTM 45N for metre-accurate buffers)
+# Analysis
+scipy                # Theil-Sen slope (scipy.stats.theilslopes)
+pymannkendall        # Mann-Kendall trend test
+# Figures
+matplotlib
