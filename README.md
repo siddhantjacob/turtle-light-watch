@@ -1,6 +1,8 @@
 # Dark Skies for Hatchlings 🐢🌙
 **Are the olive ridley turtle nesting beaches of Odisha, India getting brighter at night? A satellite night-light study, 2014–2025.**
 
+📄 **[Read the 3-page plain-English brief (PDF)](docs/turtle_light_brief.pdf)**
+
 ![Night-light trend for every 5 km of the Odisha coast](figures/fig1_coast_map.png)
 
 ## In short
