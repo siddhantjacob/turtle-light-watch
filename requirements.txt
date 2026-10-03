@@ -10,3 +10,4 @@ scipy                # Theil-Sen slope (scipy.stats.theilslopes)
 pymannkendall        # Mann-Kendall trend test
 # Figures
 matplotlib
+requests             # download Earth Engine thumbnails (figure 4)
