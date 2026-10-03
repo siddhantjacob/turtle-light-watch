@@ -11,3 +11,4 @@ pymannkendall        # Mann-Kendall trend test
 # Figures
 matplotlib
 requests             # download Earth Engine thumbnails (figure 4)
+reportlab            # build the PDF brief (docs/make_brief.py)

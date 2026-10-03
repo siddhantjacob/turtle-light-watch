@@ -21,3 +21,5 @@ Thumbs.db
 
 # Working notes stay local (they name specific sites; see README for the public version)
 notes/
+
+Claude outputs/
